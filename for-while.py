@@ -1,5 +1,6 @@
 # 초보자를 위한 파이썬 200제 (001~015)
 
+# 013
 scope = [1,2,3]
 for x in scope:
     print(x)
@@ -7,6 +8,7 @@ for x in scope:
 else:
     print('perfect!')
 
+# 014
 x=0
 while x < 10:
     x=x+1
@@ -15,7 +17,6 @@ while x < 10:
     print(x)
     if x > 7:
         break
-
 
 x = 1
 total = 0
