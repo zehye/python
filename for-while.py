@@ -1,3 +1,5 @@
+# 초보자를 위한 파이썬 200제 (001~015)
+
 scope = [1,2,3]
 for x in scope:
     print(x)
